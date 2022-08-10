@@ -1,7 +1,7 @@
 export const shelves = [
   {
     id: 1,
-    value: 'none',
+    value: 'move',
     display: 'Move to...'
   },
   {
